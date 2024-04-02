@@ -10,7 +10,6 @@ Checkout this website I made as part of my 100daysofNoCode Challenge using Dorik
 </a>
 
 ### Interests 💫
-<br>
 ☘ I am an avid reader and love to travel
 <br>
 ☘ Currently looking for an opportunity to contribute to Open Source Software
