@@ -12,6 +12,9 @@ Checkout this website I made as part of my 100daysofNoCode Challenge using Dorik
 ###Interests
 
 ☘ I am an avid reader and love to travel
+<br>
 ☘ Currently looking for an opportunity to contribute to Open Source Software
+<br>
 ☘ Advocate for climate change initiatives
+<br>
 
