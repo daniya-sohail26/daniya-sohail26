@@ -9,8 +9,8 @@ Checkout this website I made as part of my 100daysofNoCode Challenge using Dorik
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniya-sohail26&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-###Interests
-
+### Interests 💫
+<br>
 ☘ I am an avid reader and love to travel
 <br>
 ☘ Currently looking for an opportunity to contribute to Open Source Software
