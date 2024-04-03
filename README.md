@@ -14,6 +14,6 @@ Checkout this website I made as part of my 100daysofNoCode Challenge using Dorik
 <br>
 ☘ Currently looking for an opportunity to contribute to Open Source Software
 <br>
-☘ Advocate for climate change initiatives
+☘ Care about #climate
 <br>
 
