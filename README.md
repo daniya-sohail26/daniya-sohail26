@@ -12,6 +12,9 @@ A form made for gathering entries from users and storing the responses in a data
 <a href="https://github.com/daniya-sohail26/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniya-sohail26&layout=compact&langs_count=8&card_width=320" />
 </a>
+<br>
+<br>
+![Daniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniya-sohail26&show_icons=true&theme=radical)
 
 ### Interests 💫
 ☘ I am an avid reader and love to travel
