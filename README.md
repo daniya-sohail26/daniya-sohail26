@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniya-sohail26&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br>
-<br>
+
 ![Daniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniya-sohail26&show_icons=true&theme=radical)
 
 ### Interests 💫
