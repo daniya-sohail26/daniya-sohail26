@@ -7,7 +7,7 @@
 </a>
 <br>
 <br>
-[Daniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniya-sohail26&show_icons=true&theme=radical)
+![Daniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniya-sohail26&show_icons=true&theme=radical)
 
 ### Interests 💫
 ☘ I am an avid reader and love to travel
