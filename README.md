@@ -17,5 +17,9 @@
 ☘ Care about #climate
 <br>
 
+### Tools 
+
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/daniya-sohail26/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/daniya-sohail26/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c++)](https://github.com/daniya-sohail26/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/daniya-sohail26/readme-components)
