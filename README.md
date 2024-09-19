@@ -22,5 +22,4 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd)](https://github.com/daniya-sohail26/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&fill=ffc0cd)](https://github.com/daniya-sohail26/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=ffc0cd)](https://github.com/daniya-sohail26/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=html&fill=ffc0cd)](https://github.com/daniya-sohail26/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=css&fill=ffc0cd)](https://github.com/daniya-sohail26/readme-components)
+
