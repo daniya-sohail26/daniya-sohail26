@@ -24,5 +24,5 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000)](https://github.com/daniya-sohail26/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=MySQL&fill=000000)](https://github.com/daniya-sohail26/readme-components)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Node.Js&fill=000000)](https://github.com/daniya-sohail26/readme-components)
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Express.Js&fill=000000)](https://github.com/daniya-sohail26/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=express.Js&fill=000000)](https://github.com/daniya-sohail26/readme-components)
 
