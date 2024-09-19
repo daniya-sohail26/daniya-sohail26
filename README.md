@@ -1,7 +1,3 @@
-
-
-<br>![istockphoto-878689642-612x612](https://github.com/user-attachments/assets/fe446bc2-2a56-4208-8d82-057920cc7795)
-
 ### Hi there 👋
 ### I am a frontend developer, proficient in python and currently learning MERN stack. 
 
@@ -21,3 +17,5 @@
 ☘ Care about #climate
 <br>
 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/daniya-sohail26/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/daniya-sohail26/readme-components)
