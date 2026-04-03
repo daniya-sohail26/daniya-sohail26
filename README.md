@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniya-sohail-116720261)
 [![Location](https://img.shields.io/badge/📍_Karachi,_Pakistan-222?style=for-the-badge)](#)
 </div>
----
 
 ## 〉 Stack
 
@@ -53,14 +52,14 @@
   <img src="https://streak-stats.demolab.com?user=daniya-sohail26&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 </div>
----
+
 
 ## 〉 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniya-sohail26&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
+
 ## 〉 Quote
 
 <div align="center">
@@ -68,7 +67,7 @@
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
----
+
 
 
 
