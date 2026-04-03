@@ -59,18 +59,6 @@
 
 <div align="center">
 
-<a href="https://github.com/daniya-sohail26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniya-sohail26&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=400" />
-</a>
-
-<a href="https://github.com/daniya-sohail26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniya-sohail26&layout=compact&langs_count=8&theme=aura&hide_border=true&card_width=400" />
-</a>
-
-</div>
-
-<div align="center">
-
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=daniya-sohail26&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
