@@ -1,12 +1,11 @@
 <div align="center">
 ### ⚡ ML Engineer · Full Stack Developer ⚡
 *Building applied ML and SaaS systems, model evaluation pipelines, and turning experiments into tools people can actually use.*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniya-sohail-116720261)
 [![Location](https://img.shields.io/badge/📍_Karachi,_Pakistan-222?style=for-the-badge)](#)
 </div>
-
 ---
+
 ## 〉 Stack
 
 **Languages**
@@ -38,7 +37,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -52,7 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=daniya-sohail26&theme=aura&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 </div>
-
 ---
 
 ## 〉 Contribution Graph
@@ -65,7 +62,6 @@
 <div align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
-
 ---
 
 
