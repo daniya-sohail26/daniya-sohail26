@@ -62,8 +62,11 @@
 
 ---
 ## 〉 Quote
+
 <div align="center">
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 </div>
 ---
 
