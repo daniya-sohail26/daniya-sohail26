@@ -1,5 +1,5 @@
-### Hi there 👋
-### I am a frontend developer, proficient in python and currently learning MERN stack. 
+### Hii! Thanks for stopping by 👋
+### I would describe myself as an ML Engineer and a MERN developer, currently exploring AI workflows, LLMS, RAG and deployment on the cloud
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/daniya-sohail-116720261) 
