@@ -1,6 +1,6 @@
 <div align="center">
 
-### ⚡ AI / ML Engineer · Full Stack Developer ⚡
+### ⚡ ML Engineer · Full Stack Developer ⚡
 
 *Building applied ML and SaaS systems, model evaluation pipelines, and turning experiments into tools people can actually use.*
 
